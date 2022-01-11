@@ -1,7 +1,7 @@
 ### **Hi there** 👋
 
 I am Carlos Bravo, Mechatronic Engineer 🎓 and passionate developer in building 😄
-I'm a passionate learner 
+I'm a passionate self-learner 
 
 <p align="center">
 <img src="https://badges.pufler.dev/visits/carlosbravo1408/carlosbravo1408"/> 
