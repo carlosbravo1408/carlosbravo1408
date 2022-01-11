@@ -1,6 +1,4 @@
-**### Hi there 👋**
-
-
+### **Hi there** 👋
 
 I am Carlos Bravo, Mechatronic Engineer 🎓 and passionate developer in building 😄
 I'm a passionate learner 
