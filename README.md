@@ -9,12 +9,12 @@ I'm a passionate self-learner
  <img src="https://badges.pufler.dev/commits/monthly/carlosbravo1408" />
 </p>
 
-- 🔭 I’m currently working on [VeMiGol](www.vemigol.com), Freelance
+- 🔭 I’m currently working on [VeMiGol](https://www.vemigol.com), Freelance
 - 🌱 I’m currently learning AI, ML, Web-Development.
 - 💬 Ask me about anything related to Python, C#.
 - 📫 How to reach me: [@carlosjavierb94](https://twitter.com/carlosjavierb94), [LinkedIn](https://www.linkedin.com/in/carlos-javier-bravo-9036b1161/)
 - ⚡ Fun fact: Coffee lover ☕☕☕
-- 👽 Personal Website: [aliennerd.dev](www.aliennerd.dev) (in building 😆)
+- 👽 Personal Website: [aliennerd.dev](https://www.aliennerd.dev) (in building 😆)
 
 <h2 align="center">My Github Stats</h2>
 
