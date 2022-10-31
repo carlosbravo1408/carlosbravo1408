@@ -14,7 +14,7 @@ I'm a passionate self-learner
 - 💬 Ask me about anything related to Python, C#.
 - 📫 How to reach me: [@carlosjavierb94](https://twitter.com/carlosjavierb94), [LinkedIn](https://www.linkedin.com/in/carlos-javier-bravo-9036b1161/)
 - ⚡ Fun fact: Coffee lover ☕☕☕
-- 👽 Personal Website: [aliennerd.dev](https://www.aliennerd.dev) (in building 😆)
+- 👽 Personal Website: [aliennerd.dev](https://www.aliennerd.dev/about_me) (in building 😆)
 
 <h2 align="center">My Github Stats</h2>
 
