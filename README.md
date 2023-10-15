@@ -63,5 +63,6 @@ I'm a passionate self-learner
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+ <img src="https://github.com/carlosbravo1408/carlosbravo1408/raw/output/github-contribution-grid-snake.svg"
 </center>
 </p>
