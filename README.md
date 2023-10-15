@@ -9,6 +9,7 @@ I'm a passionate self-learner
  <img src="https://badges.pufler.dev/commits/monthly/carlosbravo1408" />
 </p>
 
+
 - 🔭 I’m currently working on [VeMiGol](https://www.vemigol.com), Freelance
 - 🌱 I’m currently learning AI, ML, Web-Development.
 - 💬 Ask me about anything related to Python, C#.
@@ -25,14 +26,19 @@ I'm a passionate self-learner
 </center>
 </p>
 
+
 <h2 align="center">My Github Stats</h2>
 
 <div align="center">
   <a href="https://github.com/carlosbravo1408">
+      <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosbravo1408&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+          </div>
+      <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbravo1408&layout=compact&langs_count=7&theme=radical"/>
- <img src="https://activity-graph.herokuapp.com/graph?username=carlosbravo1408&theme=redical">
+          </div>
 </div>
+
 
 <h2 align="center">Technology Stack</h2>
 
@@ -43,7 +49,7 @@ I'm a passionate self-learner
 <!--<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>-->
 <!--<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>-->
 <!--<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>-->
-<img src="https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=netlify"/>
+<!--<img src="https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=netlify"/>-->
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv"/>
 <img src="https://img.shields.io/badge/-OpenVINO-black?style=flat-square&logo=openvino"/>
@@ -57,6 +63,7 @@ I'm a passionate self-learner
 </p>
 
 
+
 <h2 align="center">Reach me out on:</h2>
 
 <div align="center"> 
@@ -64,3 +71,4 @@ I'm a passionate self-learner
   <a href="https://www.linkedin.com/in/carlos-javier-bravo-9036b1161" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.aliennerd.dev" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>  
 </div>
+
