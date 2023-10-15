@@ -16,6 +16,15 @@ I'm a passionate self-learner
 - ⚡ Fun fact: Coffee lover ☕☕☕
 - 👽 Personal Website: [aliennerd.dev](https://www.aliennerd.dev/about_me) (in building 😆)
 
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosbravo1408/carlosbravo1408/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosbravo1408/carlosbravo1408/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+</center>
+</p>
+
 <h2 align="center">My Github Stats</h2>
 
 <div align="center">
@@ -55,13 +64,3 @@ I'm a passionate self-learner
   <a href="https://www.linkedin.com/in/carlos-javier-bravo-9036b1161" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.aliennerd.dev" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>  
 </div>
-
-<h2 align="center"> My Contribution Graph </h2>
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosbravo1408/carlosbravo1408/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosbravo1408/carlosbravo1408/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-</center>
-</p>
