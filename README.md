@@ -3,14 +3,6 @@
 I am Carlos Bravo, Mechatronic Engineer 🎓 and passionate developer in building 😄
 I'm a passionate self-learner 
 
-<p align="center">
-<img src="https://badges.pufler.dev/visits/carlosbravo1408/carlosbravo1408"/> 
- <img src="https://badges.pufler.dev/repos/carlosbravo1408"/>
- <img src="https://badges.pufler.dev/commits/monthly/carlosbravo1408" />
-</p>
-
-
-- 🔭 I’m currently working on [VeMiGol](https://www.vemigol.com), Freelance
 - 🌱 I’m currently learning AI, ML, Web-Development.
 - 💬 Ask me about anything related to Python, C#.
 - 📫 How to reach me: [@carlosjavierb94](https://twitter.com/carlosjavierb94), [LinkedIn](https://www.linkedin.com/in/carlos-javier-bravo-9036b1161/)
