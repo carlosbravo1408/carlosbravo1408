@@ -9,13 +9,23 @@ I'm a passionate self-learner
 - ⚡ Fun fact: Coffee lover ☕☕☕
 - 👽 Personal Website: [aliennerd.dev](https://www.aliennerd.dev/about_me) (in building 😆)
 
+## [My Own Version](https://github.com/carlosbravo1408/Lizard)
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosbravo1408/Lizard/output/contribution_map_animation_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosbravo1408/Lizard/output/contribution_map_animation_light.svg">
+  <img alt="github-Lizard" src="github-lizard.svg" />
+</picture>
+</p>
+
+
+## [Platane/snk](https://github.com/Platane/snk)
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosbravo1408/carlosbravo1408/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosbravo1408/carlosbravo1408/output/github-contribution-grid-snake.svg">
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-</center>
 </p>
 
 
